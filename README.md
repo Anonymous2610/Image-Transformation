@@ -16,8 +16,5 @@ and its done
 #SPOTLIGHT Image
 ![Spotlight Image](out-spotlight.png)
 
-#WaterMark Image
-![WaterMark Image](out-watermark.png)
-
 #Dichromatic Image
 ![Dichromatic Image](out-illinify.png)
