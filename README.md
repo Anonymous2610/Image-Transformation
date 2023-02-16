@@ -14,10 +14,10 @@ and its done
 ![Grayscaled Image](out-grayscale.png)
 
 #SPOTLIGHT Image
-![Spotlight Image] (out-spotlight.png)
+![Spotlight Image](out-spotlight.png)
 
 #WaterMark Image
-![WaterMark Image] (out-watermark.png)
+![WaterMark Image](out-watermark.png)
 
 #Dichromatic Image
-![Dichromatic Image] (out-illinify.png)
+![Dichromatic Image](out-illinify.png)
